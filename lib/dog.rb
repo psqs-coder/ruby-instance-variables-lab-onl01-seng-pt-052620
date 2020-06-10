@@ -8,3 +8,8 @@ class Dog
   end
 end
 
+def (Lassie)
+  Lassie = DOg.new 
+  
+  lassie.name
+end
