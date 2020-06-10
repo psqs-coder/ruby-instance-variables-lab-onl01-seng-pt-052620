@@ -9,6 +9,6 @@ class Dog
 end
 
 def (Lassie)
-  Lassie = DOg.new 
-  
+  ::Lassie = DOg.new 
+  end
 end
